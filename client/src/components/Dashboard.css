@@ -1,0 +1,22 @@
+.dashboard-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.dashboard-container h1 {
+    margin-bottom: 20px;
+}
+
+.dashboard-cotainer button {
+    padding: 10px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.dashboard-container button:hover {
+    background-color: #c82333;
+}
